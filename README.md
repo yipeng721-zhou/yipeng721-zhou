@@ -3,8 +3,8 @@
 简体中文 | [English](./README.en.md)
 
 <a href="https://www.yipeng721.cn"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/terminal-dark.svg">
-  <img src="./assets/terminal-light.svg" width="880" alt="Yipeng OS — Instruments × AI">
+  <source media="(prefers-color-scheme: dark)" srcset="./terminal-dark.svg">
+  <img src="./terminal-light.svg" width="880" alt="Yipeng OS — Instruments × AI">
 </picture></a>
 
 <p align="center"><sub>点击上方终端，进入我的个人网站</sub></p>

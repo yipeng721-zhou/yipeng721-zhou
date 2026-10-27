@@ -3,8 +3,8 @@
 [简体中文](./README.md) | English
 
 <a href="https://www.yipeng721.cn"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/terminal-dark.svg">
-  <img src="./assets/terminal-light.svg" width="880" alt="Yipeng OS — Instruments × AI">
+  <source media="(prefers-color-scheme: dark)" srcset="./terminal-dark.svg">
+  <img src="./terminal-light.svg" width="880" alt="Yipeng OS — Instruments × AI">
 </picture></a>
 
 <p align="center"><sub>Click the terminal above to visit my website</sub></p>
